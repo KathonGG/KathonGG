@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KathonGG
-- 👀 I’m interested in coding
+- 🏫 I'm currently studying System Analysis and development
 - 🌱 I’m currently learning Java, JavaScript, HTML and CSS
-- 📫 How to reach me: natanae.barbosa60@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cats
 
